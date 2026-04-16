@@ -1,0 +1,4 @@
+Looking for a Data Scientist with:
+Python, Machine Learning, Deep Learning,
+Pandas, NumPy, SQL, NLP
+Minimum 2 years experience
